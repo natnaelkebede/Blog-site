@@ -24,7 +24,7 @@
                         
                             <td>Image</td>
                             <td><img src="{{$post->fearured}} " alt="$posts->title" width="50px" height="50px"></td>
-                            <td>Edit</td>
+                            <td>Editing</td>
                             <td>
                                 <a href="{{route('post.delete')}} " class="btn btn-danger">Trash</a>
                             </td>
